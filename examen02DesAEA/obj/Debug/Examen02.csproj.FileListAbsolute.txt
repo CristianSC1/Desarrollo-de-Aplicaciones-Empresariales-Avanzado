@@ -1,0 +1,93 @@
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.exe.config
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.exe
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.pdb
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\bin\Debug\EntityFramework.xml
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Examen02.csprojAssemblyReference.cache
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Consultas.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Consultorios.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Hospitales.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaConsultorios.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaEnfermeras.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaMedicos.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaPacientes.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaProveedores.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaTriajes.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Login.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Mantenimientos.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Enfermeras.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Medicinas.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Pacientes.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Pagos.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Properties.Resources.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Proveedores.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Medicos.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.TiposPago.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Triajes.resources
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.GenerateResource.cache
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.CopyComplete
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento-Ventas.exe
+D:\PROYECTOS\Examen C#\Mantenimiento-Ventas\obj\Debug\Mantenimiento-Ventas.pdb
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.exe.config
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.exe
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.pdb
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\EntityFramework.xml
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\EntityFramework.SqlServer.xml
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Examen02.csprojAssemblyReference.cache
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Consultas.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Consultorios.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Hospitales.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaConsultorios.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaEnfermeras.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaMedicos.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaPacientes.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaProveedores.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaTriajes.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Login.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Mantenimientos.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Enfermeras.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Medicinas.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Pacientes.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Pagos.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Properties.Resources.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Proveedores.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Medicos.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.TiposPago.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Triajes.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.GenerateResource.cache
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.CoreCompileInputs.cache
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.CopyComplete
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento-Ventas.exe
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento-Ventas.pdb
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Examen02.csprojAssemblyReference.cache
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Consultas.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Consultorios.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Hospitales.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaConsultorios.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaEnfermeras.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaMedicos.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaPacientes.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaProveedores.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.ListaTriajes.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Login.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Mantenimientos.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Enfermeras.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Medicinas.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Pacientes.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Pagos.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Properties.Resources.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Proveedores.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Medicos.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.TiposPago.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento_Ventas.Triajes.resources
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.GenerateResource.cache
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.CoreCompileInputs.cache
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento-Ventas.exe
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Mantenimiento-Ventas.pdb
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.exe.config
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.exe
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\Mantenimiento-Ventas.pdb
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\EntityFramework.xml
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\bin\Debug\EntityFramework.SqlServer.xml
+D:\TECSUP\TECSUP-VI-SEMESTRE\Desarrollo de Aplicaciones Avanzado\Ejercicios\Examen02DAEA-master\Mantenimiento-Ventas\obj\Debug\Examen02.csproj.CopyComplete
